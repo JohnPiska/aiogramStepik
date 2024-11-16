@@ -3,7 +3,7 @@ import time
 
 api_url = 'https://api.telegram.org/bot'
 api_cats_url = 'https://random.dog/woof.json'
-bot_token = '6336361629:AAER-4mX7y3u-cBp3k5-totMbUYMiYOkyJg'
+bot_token = ''
 error_text = 'ОШИБКА'
 max_counter = 100
 
